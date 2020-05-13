@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/pkstudent-email/static/css/main.6b8e8d99.chunk.css",
-    "main.js": "/pkstudent-email/static/js/main.4314e9e0.chunk.js",
-    "main.js.map": "/pkstudent-email/static/js/main.4314e9e0.chunk.js.map",
+    "main.js": "/pkstudent-email/static/js/main.981b7fbf.chunk.js",
+    "main.js.map": "/pkstudent-email/static/js/main.981b7fbf.chunk.js.map",
     "runtime-main.js": "/pkstudent-email/static/js/runtime-main.955d2d32.js",
     "runtime-main.js.map": "/pkstudent-email/static/js/runtime-main.955d2d32.js.map",
     "static/css/2.ecf09bb4.chunk.css": "/pkstudent-email/static/css/2.ecf09bb4.chunk.css",
     "static/js/2.d9351770.chunk.js": "/pkstudent-email/static/js/2.d9351770.chunk.js",
     "static/js/2.d9351770.chunk.js.map": "/pkstudent-email/static/js/2.d9351770.chunk.js.map",
     "index.html": "/pkstudent-email/index.html",
-    "precache-manifest.09581e2d6d94ae929698ee17ea01ec47.js": "/pkstudent-email/precache-manifest.09581e2d6d94ae929698ee17ea01ec47.js",
+    "precache-manifest.727694a72cd15d7ec101ce5e2a9ad497.js": "/pkstudent-email/precache-manifest.727694a72cd15d7ec101ce5e2a9ad497.js",
     "service-worker.js": "/pkstudent-email/service-worker.js",
     "static/css/2.ecf09bb4.chunk.css.map": "/pkstudent-email/static/css/2.ecf09bb4.chunk.css.map",
     "static/css/main.6b8e8d99.chunk.css.map": "/pkstudent-email/static/css/main.6b8e8d99.chunk.css.map",
@@ -22,6 +22,6 @@
     "static/css/2.ecf09bb4.chunk.css",
     "static/js/2.d9351770.chunk.js",
     "static/css/main.6b8e8d99.chunk.css",
-    "static/js/main.4314e9e0.chunk.js"
+    "static/js/main.981b7fbf.chunk.js"
   ]
 }
