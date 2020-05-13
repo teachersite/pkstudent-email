@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4c0432662b6257ce885c1e574c277327",
+    "revision": "c6c5e2c2b0026e899f2b10b827995c4e",
     "url": "/pkstudent-email/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pkstudent-email/static/css/2.ecf09bb4.chunk.css"
   },
   {
-    "revision": "f1d8ab2683ddd13256b5",
-    "url": "/pkstudent-email/static/css/main.d1a190db.chunk.css"
+    "revision": "dc3fbea46d047e5309fc",
+    "url": "/pkstudent-email/static/css/main.6b8e8d99.chunk.css"
   },
   {
     "revision": "8e6ff4c5433cbac1829c",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pkstudent-email/static/js/2.d9351770.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f1d8ab2683ddd13256b5",
-    "url": "/pkstudent-email/static/js/main.d5bcea09.chunk.js"
+    "revision": "dc3fbea46d047e5309fc",
+    "url": "/pkstudent-email/static/js/main.4314e9e0.chunk.js"
   },
   {
     "revision": "e9f0b507a3e15c43010a",
